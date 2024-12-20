@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6e/JgHPyUYsET9V7JazD33Iq6g6IR+uE9KJV7QY7KJ8=",
+  "Source": "MessagingQueueAPI",
+  "BasePath": "_content/MessagingQueueAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
